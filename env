@@ -1,0 +1,3 @@
+DATABASE_URL="postgresql://neondb_owner:npg_pTFVMDC4HbE3@ep-gentle-art-a4h420t1-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require"
+GEMINI_API_KEY ="AIzaSyCUG2ktSNMZZTmPWWV7Kpiu5JpnKSIxwz4"
+SESSION_SECRET="ZNY8XpntgTuXlGBBZtJo4QDqqvIdCMnfE6oKxB78HiViSLPlIE1nDeyPWJjSnvjT0BEUuDxWdvZusHcfMxVoDw=="
